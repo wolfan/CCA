@@ -1,0 +1,1 @@
+- Privataj kutimaj kondicoj.

@@ -1,0 +1,1 @@
+- Oftaj generalaj terminoj. 

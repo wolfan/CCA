@@ -1,0 +1,1 @@
+- Ciuj rajtoj kaj interesoj estas rezervitaj por la koncernaj verkoj.

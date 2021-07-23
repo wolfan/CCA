@@ -1,9 +1,20 @@
-# Verzeichnisbaum
+# Resumo
 
-🎰 cc.x993Fa2699d1e00119
+Laŭmenda publika klaŭzo por la deklaro de la verko kaj ĝiaj rajtoj.
+
+
+# Subfrazo
+
+| Spaco | Atributoj  | Enhavo                                                              | Akiri  |
+| :---: | :--------- | :------------------------------------------------------------------ | :----: |
+|   a   | Universala | Oftaj generalaj terminoj.                                           |        |
+|   y   | Privata    | Privataj kutimaj kondicoj.                                          | Oferto |
+|   b   | Universala | Ciuj rajtoj kaj interesoj estas rezervitaj por la koncernaj verkoj. |        |
+
+_**Noto:** kaj la restanta spaco estas rezervita._
+
 
 # Plano
-- 📑 island Chrome plugin: `island://` and `ID` jump.
-- 📑 Neniu sekreto lab => [DNA](https://wolfan.github.io/CCA/DNA.html)
-  - Subskriba skripto.
-  - Mem-verifika algoritmo.
+
+- 🧪 island-ligo: Kaŝnomo saltas.
+- 🧬 DNA-Cifri: Esploro pri ĉifra metodo bazita sur DNA-spirala metodo. 
